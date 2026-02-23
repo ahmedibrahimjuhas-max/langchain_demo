@@ -1,10 +1,6 @@
 # langchain_demo
 This is a simple demo for langchain. 
 
-
-I have 
-
-
 • Notebook Summary
 
   - langchain_demo_openai.ipynb:1 starts by loading dotenv, checking OPENAI_API_KEY, and (optionally) installing requirements.txt before showing how to invoke ChatOpenAI directly with gpt-4o-mini for single-shot requests.
