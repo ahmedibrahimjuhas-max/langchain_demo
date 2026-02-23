@@ -1,0 +1,5 @@
+python-dotenv==1.0.0
+langchain==0.3.27
+pinecone-client==2.2.1
+langchain-openai==0.3.35
+
